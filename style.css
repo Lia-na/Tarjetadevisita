@@ -1,0 +1,100 @@
+form{
+    background-color:#CCC;	
+    width:100%;
+    height:1125px;	 
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+    box-sizing:border-box;	 
+    
+    
+}
+
+h1{
+    margin-top:9%;
+    margin-left:5%;
+    color:#C00;
+    box-sizing:border-box;
+}
+#img{
+    width:50%;
+}
+#img1{
+    width:50%;
+   padding-left:10%;
+    padding-top:2%;
+    float:left;
+    box-sizing:border-box;
+}
+.color{
+    color:#304687;
+    font-style:italic;
+}
+ #img2{
+     width:50%;
+     padding-left:12%;
+     padding-top:2%;	
+     float:left;	
+    box-sizing:border-box;
+}
+#foto1{
+    width:50%;
+}
+#foto2{
+    width:50%;
+}
+#img3{
+    width:50%;
+   padding-left:10%;
+    padding-top:5%;
+    float:left;
+    box-sizing:border-box;
+}
+ #img4{
+     width:50%;
+     padding-left:12%;
+     padding-top:4%;
+     font-style:italic;	
+     float:left;	
+    box-sizing:border-box;
+}
+#foto{
+    width:35%;
+    height:35%;
+    border-radius:50%;
+    position:absolute;
+    top:300px;
+    left:500px;
+    box-sizing:border-box;
+}
+#pie{
+    background-color:rgba(0,0,0,0.7);
+    height:100px;
+    width:100%;
+    position:relative;
+    top:85%;
+    padding-top:25px;	 
+    box-sizing:border-box
+}
+.icon{
+    font-size:2.4em;
+    color:#C03;
+    margin-right:5%;	 
+    float:left;
+    box-sizing:border-box;
+}
+ p{
+     display:block;
+    font-size:1.5em;
+    margin-right:2%;	 
+    float:left;
+    box-sizing:border-box;
+}
+H2{
+    font-size:0.5em;	  
+    text-align:center;
+    font-style:oblique;
+    color:#009;
+    font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+    box-sizing:border-box;
+}
